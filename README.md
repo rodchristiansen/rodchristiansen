@@ -15,9 +15,15 @@ Die-hard Mac user. I build Git-driven endpoint management and cloud automation f
 
 ## Current Projects
 
+- **[ReportMate](https://github.com/reportmate)** — Unified reporting + visibility for Mac + Windows fleets  
+
 - **[BootstrapMate](https://github.com/bootstrapmate)** — Provisioning + bootstrap tooling for Windows/macOS with a DevOps-first workflow  
 
-- **[ReportMate](https://github.com/reportmate)** — Unified reporting + visibility for Mac + Windows fleets  
+- **[asbmutil](https://github.com/rodchristiansen/asbmutil)** — Swift CLI for Apple School/Business Manager APIs (bulk device ops, automation-friendly)  
+
+- **[Plinth](https://github.com/rodchristiansen/plinth)** — kiosk / exhibit-style Mac display app (drop-in file or URL, do the rest)  
+
+- **[YAML Quick Look](https://github.com/rodchristiansen/yaml-quicklook)** — Quick Look plugin for YAML (because YAML is everywhere)  
 
 - **[WindowsAdmins](https://github.com/windowsadmins)** — Open-source software projects for Windows Admins
   - **[cimian](https://github.com/windowsadmins/cimian)** — Cimian offers managed software installation of MSI(X), EXE, NUPKG, PKG, and PWSH scripts for Windows.
@@ -28,12 +34,6 @@ Die-hard Mac user. I build Git-driven endpoint management and cloud automation f
   - **[csharpdialog](https://github.com/windowsadmins/csharpdialog)** — Create user-notifications on Windows.
   - **[cimian-admin](https://github.com/windowsadmins/cimian-admin)** — Windows app for managing Cimian software deployment repositories.
   - **[pkg-inspector](https://github.com/windowsadmins/pkg-inspector)** — Modern Windows package inspection tool with GUI and CLI.
-
-- **[asbmutil](https://github.com/rodchristiansen/asbmutil)** — Swift CLI for Apple School/Business Manager APIs (bulk device ops, automation-friendly)  
-
-- **[Plinth](https://github.com/rodchristiansen/plinth)** — kiosk / exhibit-style Mac display app (drop-in file or URL, do the rest)  
-
-- **[YAML Quick Look](https://github.com/rodchristiansen/yaml-quicklook)** — Quick Look plugin for YAML (because YAML is everywhere)  
 
 - **[Munki DevOps](https://github.com/rodchristiansen/munki-devops)** — samples + patterns for running Munki under a CI/CD + GitOps model  
 
