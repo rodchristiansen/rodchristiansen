@@ -1,6 +1,6 @@
 # Hi, I'm Rod 👋
 
-Endpoint Management • DevOps • Git • IaC • CI/CD • APIs
+Endpoint Management • DevOps • Git • CI/CD • APIs • Azure & AWS • Infra as Code
 
 Die-hard Mac user. I build Git-driven endpoint management and cloud automation for macOS — and apply the MacAdmin/DevOps playbook to Windows management so sanity can prevail.
 
