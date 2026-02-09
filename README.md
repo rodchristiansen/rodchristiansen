@@ -22,7 +22,7 @@ Die-hard Mac user. I build Git-driven endpoint management and cloud automation f
 - **[WindowsAdmins](https://github.com/windowsadmins)** — Open-source software projects for Windows Admins
   - **[cimian](https://github.com/windowsadmins/cimian)** — Cimian offers managed software installation of MSI(X), EXE, NUPKG, PKG, and PWSH scripts for Windows.
   - **[sbin-installer](https://github.com/windowsadmins/sbin-installer)** — A deterministic package installer for Windows, inspired by the elegant simplicity of /usr/sbin/installer.
-  - **[cimian-pkg](https://github.com/windowsadmins/cimian-pkg)** — Tool for building .nupkg Windows installer packages from payload files, scripts, and a YAML configuration file.
+  - **[cimian-pkg](https://github.com/windowsadmins/cimian-pkg)** — Build packages with payloads and scripts to deploy to Windows.
   - **[crypt-escrow](https://github.com/windowsadmins/crypt-escrow)** — BitLocker recovery key escrow to Crypt Server with key rotation support.
   - **[startset](https://github.com/windowsadmins/startset)** — Automatically process packages and scripts during boot, login, or on demand on Windows.
   - **[csharpdialog](https://github.com/windowsadmins/csharpdialog)** — Create user-notifications on Windows.
