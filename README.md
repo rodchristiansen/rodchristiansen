@@ -30,7 +30,7 @@ Cross-platform endpoint engineer specializing in Git-driven automation and DevOp
 - **[YAML Quick Look](https://github.com/rodchristiansen/yaml-quicklook)** — Quick Look plugin for YAML (because YAML is everywhere)  
 
 - **[github.com/WindowsAdmins](https://github.com/windowsadmins)** — Open-source software projects for Windows Admins:
-  - **[cimian](https://github.com/windowsadmins/cimian)** — Cimian offers managed software installation of MSI(X), EXE, NUPKG, PKG, and PWSH scripts for Windows.
+  - **[cimian](https://github.com/windowsadmins/cimian)** — Cimian is a managed software deployment system for MSI(X), EXE, NUPKG, and PWSH scripts for Windows.
   - **[cimian-pkg](https://github.com/windowsadmins/cimian-pkg)** — Build packages with payloads and scripts to deploy to Windows.
   - **[cimian-admin](https://github.com/windowsadmins/cimian-admin)** — Windows app for managing Cimian software deployment repositories.
   - **[sbin-installer](https://github.com/windowsadmins/sbin-installer)** — A deterministic package installer for Windows, inspired by the elegant simplicity of /usr/sbin/installer.
