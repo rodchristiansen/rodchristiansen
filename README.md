@@ -41,7 +41,7 @@ Cross-platform endpoint engineer specializing in Git-driven automation and DevOp
 
 - **[Munki DevOps](https://github.com/rodchristiansen/munki-devops)** — samples + patterns for running Munki under a CI/CD + GitOps model  
 
-- **[Profiles](https://github.com/rodchristiansen/Profiles)** — a library of macOS `.mobileconfig` profiles for real-world system and user preferences  
+- **[Profiles](https://github.com/rodchristiansen/Profiles)** — a library of production macOS `.mobileconfig` profiles  
 
 - **[airname](https://github.com/rodchristiansen/airname)** — lightweight macOS menu bar app that displays your computer's name for AirDrop
 
