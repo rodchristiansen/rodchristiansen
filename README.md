@@ -27,8 +27,6 @@ Cross-platform endpoint engineer specializing in Git-driven automation and DevOp
 
 - **[Plinth](https://github.com/rodchristiansen/plinth)** — kiosk / exhibit-style Mac display app (drop-in file or URL, do the rest)  
 
-- **[YAML Quick Look](https://github.com/rodchristiansen/yaml-quicklook)** — Quick Look plugin for YAML (because YAML is everywhere)  
-
 - **[github.com/WindowsAdmins](https://github.com/windowsadmins)** — Open-source software projects for Windows Admins:
   - **[cimian](https://github.com/windowsadmins/cimian)** — Cimian is a managed software deployment system for MSI(X), EXE, NUPKG, and PWSH scripts for Windows.
   - **[cimian-pkg](https://github.com/windowsadmins/cimian-pkg)** — Build packages with payloads and scripts to deploy to Windows.
