@@ -4,7 +4,7 @@
 
 Endpoint Management • DevOps • Git • CI/CD • APIs • Azure & AWS • Infra as Code
 
-Cross-platform endpoint engineer specializing in Git-driven automation and DevOps workflows. I bring modern MacAdmin practices to Windows management and build tools that work across both ecosystems.
+Cross-platform endpoint engineer and systems architect specializing in Git-driven automation and DevOps workflows. I bring modern MacAdmin practices to Windows management and build tools that work across both ecosystems.
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
