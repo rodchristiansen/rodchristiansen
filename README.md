@@ -25,8 +25,6 @@ Cross-platform endpoint engineer and systems architect specializing in Git-drive
 
 - **[asbmutil](https://github.com/rodchristiansen/asbmutil)** — Swift CLI for Apple School/Business Manager APIs (bulk device ops, automation-friendly)  
 
-- **[Plinth](https://github.com/rodchristiansen/plinth)** — kiosk / exhibit-style Mac display app (drop-in file or URL, do the rest)  
-
 - **[github.com/WindowsAdmins](https://github.com/windowsadmins)** — Open-source software projects for Windows Admins:
   - **[cimian](https://github.com/windowsadmins/cimian)** — Cimian is a managed software deployment system for MSI(X), EXE, NUPKG, and PWSH scripts for Windows.
   - **[cimian-pkg](https://github.com/windowsadmins/cimian-pkg)** — Build packages with payloads and scripts to deploy to Windows.
@@ -37,7 +35,7 @@ Cross-platform endpoint engineer and systems architect specializing in Git-drive
   - **[pkg-inspector](https://github.com/windowsadmins/pkg-inspector)** — Modern Windows package inspection tool with GUI and CLI.
   - **[startset](https://github.com/windowsadmins/startset)** — Automatically process packages and scripts during boot, login, or on demand on Windows.
 
-- **[Munki DevOps](https://github.com/rodchristiansen/munki-devops)** — samples + patterns for running Munki under a CI/CD + GitOps model  
+- **[Munki GitOps](https://github.com/rodchristiansen/munki-gitops)** — samples + patterns for running Munki under a CI/CD + GitOps model  
 
 - **[Profiles](https://github.com/rodchristiansen/Profiles)** — a library of production macOS `.mobileconfig` profiles  
 
