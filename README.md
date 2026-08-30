@@ -6,6 +6,9 @@ Endpoint Management • DevOps • Git • CI/CD • APIs • Azure & AWS • In
 
 Cross-platform endpoint engineer and systems architect specializing in Git-driven automation and DevOps workflows. I bring modern MacAdmin practices to Windows management and build tools that work across both ecosystems.
 
+- I did this talk in June 2025: [MacDevOps YVR: Munki DevOps, CI/CD patterns, cross-platform endpoint workflows](https://www.youtube.com/watch?v=ayQqGT9S_cM&t=7s&pp=ygUacm9kIGNocmlzdGlhbnNlbiBtYWNkZXZvcHM%3D)
+- And in 2026 I talked about bringing that same approach to Windows: [MacDevOps YUL: Zen and the Art of Managing Windows the MacAdmin Way](https://www.youtube.com/watch?v=5m8BkAfpFMg)
+
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -50,4 +53,3 @@ Cross-platform endpoint engineer and systems architect specializing in Git-drive
 ## Writing + talks
 
 - Aiming to blog more soon at: https://blog.focused.systems  
-- I did this talk in June 2025: [MacDevOps YVR: Munki DevOps, CI/CD patterns, cross-platform endpoint workflows](https://www.youtube.com/watch?v=ayQqGT9S_cM&t=7s&pp=ygUacm9kIGNocmlzdGlhbnNlbiBtYWNkZXZvcHM%3D)
