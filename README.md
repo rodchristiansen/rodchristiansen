@@ -1,10 +1,10 @@
 # Hi, I'm Rod 👋
 
-**Devices Administrator Lead** at Emily Carr University of Art + Design in Vancouver, Canada.
+**Infrastructure Solutions Architect** in Vancouver, Canada.
 
-Endpoint Management • DevOps • Git • CI/CD • APIs • Azure & AWS • Infra as Code
+Cloud systems • Data products • Native apps
 
-Cross-platform endpoint engineer and systems architect specializing in Git-driven automation and DevOps workflows. I bring modern MacAdmin practices to Windows management and build tools that work across both ecosystems.
+I design and build the cloud systems, data pipelines and tools that organizations run on. Everything is defined in Git, built as code and shipped through CI/CD. On the side I make native apps for Mac, Windows and iOS.
 
 - I did this talk at [MacDevOps YVR: Munki DevOps, CI/CD patterns, cross-platform endpoint workflows](https://www.youtube.com/watch?v=ayQqGT9S_cM&t=7s&pp=ygUacm9kIGNocmlzdGlhbnNlbiBtYWNkZXZvcHM%3D)
 - And another at [MacDevOps YUL: Zen and the Art of Managing Windows the MacAdmin Way](https://www.youtube.com/watch?v=5m8BkAfpFMg)
