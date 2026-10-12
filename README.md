@@ -2,9 +2,13 @@
 
 **Infrastructure Solutions Architect** in Vancouver, Canada.
 
-Cloud systems • Data products • Native apps
+Cloud systems • Pipelines • Integrations • Dashboards • Native apps
 
-I design and build the cloud systems, data pipelines and tools that organizations run on. Everything is defined in Git, built as code and shipped through CI/CD. On the side I make native apps for Mac, Windows and iOS.
+Architecting cloud infrastructure end to end, from the systems and the pipelines that connect them to the dashboards stakeholders make decisions on.
+
+Embedding agentic workflows from the foundation, with every piece defined as code and shipped through reviewed CI/CD pipelines, so changes move fast, at scale and securely. Secretless by design, built on federated identity and single sign-on.
+
+Building native apps for Mac, Windows and iOS.
 
 - I did this talk at [MacDevOps YVR: Munki DevOps, CI/CD patterns, cross-platform endpoint workflows](https://www.youtube.com/watch?v=ayQqGT9S_cM&t=7s&pp=ygUacm9kIGNocmlzdGlhbnNlbiBtYWNkZXZvcHM%3D)
 - And another at [MacDevOps YUL: Zen and the Art of Managing Windows the MacAdmin Way](https://www.youtube.com/watch?v=5m8BkAfpFMg)
